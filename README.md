@@ -4,8 +4,8 @@
 - Aprendendo Java/Spring 🍃
   
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=italo-henri&show_icons=true&theme=omni"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-henri&layout=compact&theme=omni"/>
+  <img height="160em" width="40%" src="https://github-readme-stats.vercel.app/api?username=italo-henri&show_icons=true&theme=omni"/>
+  <img height="160em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-henri&layout=compact&theme=omni"/>
 </div>
 <br/>
 <div >
