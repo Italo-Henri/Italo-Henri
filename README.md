@@ -2,11 +2,7 @@
 
 - Desenvolvedor Web Full Stack
 - Aprendendo Java/Spring 🍃
-  
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=italo-henri&show_icons=true&theme=omni"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-henri&layout=compact&theme=omni"/>
-</div>
+
 <br/>
 <div >
   <img  alt="Italo-JAVA" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
